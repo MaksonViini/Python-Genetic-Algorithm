@@ -2,7 +2,7 @@
 
 Algorithm developed for the artificial intelligence undergraduate course.
 
-And a genetic algorithm in Python for the traveling salesman problem.
+A genetic algorithm in Python for the traveling salesman problem.
 
 ## Principais ferramentas:
 - Python and Tools (Python and Libs)
